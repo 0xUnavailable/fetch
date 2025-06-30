@@ -1,6 +1,3 @@
-Here’s a clean, professional, and properly formatted version of your **README.md** file for the **Selective Web Scraper** project. This version uses proper markdown styling, consistent formatting, and improved readability:
-
----
 
 # 🕷️ Selective Web Scraper
 
@@ -211,6 +208,3 @@ example();
 
 This project is licensed under the [MIT License](./LICENSE).
 
----
-
-Let me know if you'd like this in an actual `.md` file or if you need the repo structure/layout to go with it.
